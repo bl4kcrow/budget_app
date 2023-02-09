@@ -1,3 +1,7 @@
 # budget_app
 
-A new Flutter project.
+A Budget App using MVVM and Riverpod.
+
+Platforms:
+  Android
+  Web
